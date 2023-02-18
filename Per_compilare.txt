@@ -1,0 +1,5 @@
+// Per compilare
+
+g++ Problema_del_noleggio_auto.cpp -o Problema_del_noleggio_auto.run
+
+g++ Problema_del_noleggio_auto.cpp -o Problema_del_noleggio_auto.sh
